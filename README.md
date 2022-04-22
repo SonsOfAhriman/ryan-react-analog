@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Ryan React Analog Clock Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Please run `npm install` to make sure you have all the required node modules first.
 
 ## Available Scripts
 
